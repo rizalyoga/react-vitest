@@ -21,6 +21,7 @@ function CommentBox({ onAddComment }: CommentBoxProps) {
       className="bg-white rounded-lg shadow-md p-6 mb-6"
     >
       <textarea
+        data-testid="comment-box"
         value={text}
         onChange={(e) => setText(e.target.value)}
         placeholder="Write a comment..."

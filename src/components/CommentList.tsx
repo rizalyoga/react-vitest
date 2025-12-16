@@ -8,7 +8,10 @@ interface CommentListProps {
 function CommentList({ comments }: CommentListProps) {
   if (comments.length === 0) {
     return (
-      <div className="bg-white rounded-lg shadow-sm p-8 text-center">
+      <div
+        data-testid="comment-list-empty"
+        className="bg-white rounded-lg shadow-sm p-8 text-center"
+      >
         <p className="text-gray-500 text-lg">
           No comments yet. Be the first to comment!
         </p>
@@ -17,7 +20,7 @@ function CommentList({ comments }: CommentListProps) {
   }
 
   return (
-    <div className="space-y-4">
+    <div data-testid="comment-list" className="space-y-4">
       {comments.map((comment) => (
         <CommentItem key={comment.id} comment={comment} />
       ))}

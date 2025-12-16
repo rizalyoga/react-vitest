@@ -126,7 +126,7 @@ Check them off as you complete them.
 - Test empty/whitespace-only submissions are prevented.
 - Test form submission via Enter key.
 
-⬜ **Milestone 5.1 completed**
+✅ **Milestone 5.1 completed**
 
 ---
 
@@ -137,7 +137,7 @@ Check them off as you complete them.
 - Test date formatting works correctly.
 - Test handling of long text and special characters.
 
-⬜ **Milestone 5.2 completed**
+✅ **Milestone 5.2 completed**
 
 ---
 
@@ -149,7 +149,7 @@ Check them off as you complete them.
 - Test CommentItem integration.
 - Test edge cases (empty text, large lists).
 
-⬜ **Milestone 5.3 completed**
+✅ **Milestone 5.3 completed**
 
 ---
 
