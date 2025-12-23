@@ -52,7 +52,7 @@ Check them off as you complete them.
 - Confirm the component can be rendered.
 - Check that the section title (e.g., "Comment Feature") appears.
 
-⬜ **Milestone 1.1 completed**
+✅ **Milestone 1.1 completed**
 
 ---
 
@@ -61,7 +61,7 @@ Check them off as you complete them.
 - Ensure the textarea is visible.
 - Ensure the submit button is visible.
 
-⬜ **Milestone 1.2 completed**
+✅ **Milestone 1.2 completed**
 
 ---
 
@@ -72,7 +72,7 @@ Check them off as you complete them.
 - Simulate typing into the textarea.
 - Assert that the textarea value changes accordingly.
 
-⬜ **Milestone 2.1 completed**
+✅ **Milestone 2.1 completed**
 
 ---
 
@@ -82,7 +82,7 @@ Check them off as you complete them.
 - Click the submit button.
 - Verify the comment appears in the list.
 
-⬜ **Milestone 2.2 completed**
+✅ **Milestone 2.2 completed**
 
 ---
 
@@ -92,7 +92,7 @@ Check them off as you complete them.
 
 - After submitting, textarea should be empty.
 
-⬜ **Milestone 3.1 completed**
+✅ **Milestone 3.1 completed**
 
 ---
 
@@ -100,7 +100,7 @@ Check them off as you complete them.
 
 - Ensure submitting with an empty or whitespace-only textarea does **not** add anything to the list.
 
-⬜ **Milestone 3.2 completed**
+✅ **Milestone 3.2 completed**
 
 ---
 
@@ -111,7 +111,7 @@ Check them off as you complete them.
 - Submit several comments.
 - Ensure all appear in the list in the order submitted.
 
-⬜ **Milestone 4.1 completed**
+✅ **Milestone 4.1 completed**
 
 ---
 
